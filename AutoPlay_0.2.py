@@ -2,7 +2,6 @@ import sys
 from PyQt5.QtCore import QTimer, Qt, pyqtSignal, QObject
 from PyQt5.QtGui import QKeySequence, QPalette, QColor
 from PyQt5.QtWidgets import QApplication, QPushButton, QWidget, QShortcut, QSpinBox, QLabel, QComboBox, QAction, QMainWindow, QShortcut
-import threading
 import keyboard
 import mouse
 
